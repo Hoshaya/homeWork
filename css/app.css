@@ -1,0 +1,72 @@
+body {
+  background-color: black;
+  color:white;
+ 
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.loss-modal{
+  display: none;
+  margin-top:200px;
+  text-align: center;
+}
+
+.win-modal{
+
+  display: none;
+  margin-top:200px;
+  text-align: center;
+
+
+}
+
+
+
+button {
+  margin: 20px;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  border: 1px red solid;
+  
+}
+
+
+button:hover {
+  background-color: rgb(187, 121, 127);
+}
+
+
+.board-container{
+
+  
+  
+}
+
+/* .ghost1{
+
+  background-color: blueviolet;
+}
+
+.ghost2{
+
+  background-color: blueviolet;
+}
+
+.ghost3{
+
+  background-color: blueviolet;
+} */
+
